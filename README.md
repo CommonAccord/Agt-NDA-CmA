@@ -1,5 +1,6 @@
-# CmA_F_Agt-NDA
-NDA on form derived from CooleyGo.  Highly granular, with many alternatives to tailor to purpose. 
+<a href="https://github.com/CommonAccord/CmA_F_Agt-NDA">https://github.com/CommonAccord/CmA_F_Agt-NDA</a>
+
+NDA on form derived from CooleyGo.  Highly granular, with many alternatives for tailoring to purpose. 
 
 NDA based originally on a CooleyGo form (with permission but without endorsement). It has been significantly modified.
 
