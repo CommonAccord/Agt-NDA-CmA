@@ -1,8 +1,8 @@
 Ti=Dispute Resolution
 
-Law.=[G/CmA_F_Agt-NDA/Sec/Law/0.md]
+Law.=[G/Agt-NDA-CmA/Sec/Law/0.md]
 
-Forum.=[G/CmA_F_Agt-NDA/Sec/Dispute/Court/0.md]
+Forum.=[G/Agt-NDA-CmA/Sec/Dispute/Court/0.md]
 
 1.Sec={Law.Sec}
 

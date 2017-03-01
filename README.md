@@ -1,4 +1,4 @@
-<a href="https://github.com/CommonAccord/CmA_F_Agt-NDA">https://github.com/CommonAccord/CmA_F_Agt-NDA</a>
+<a href="https://github.com/CommonAccord/Agt-NDA-CmA">https://github.com/CommonAccord/Agt-NDA-CmA</a>
 
 NDA on form derived from CooleyGo.  Highly granular, with many alternatives for tailoring to purpose. 
 
@@ -11,5 +11,5 @@ This repo is also mounted as part of source.commonaccord.org - the rendered doc 
 
 DEPENDENCIES:
 
-CmA_F_Agt-Form
+Agt-Form-CmA
 CmA_Z
